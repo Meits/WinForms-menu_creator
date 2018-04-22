@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\bin\Debug\dz4-3.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\bin\Debug\dz4-3.exe
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\bin\Debug\dz4-3.pdb
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4-3.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4_3.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4_3.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4-3.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4-3.exe
+c:\users\mak\documents\visual studio 2017\Projects\dz4-3\dz4-3\obj\Debug\dz4-3.pdb
