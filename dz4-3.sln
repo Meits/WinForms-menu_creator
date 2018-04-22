@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz4-3", "dz4-3\dz4-3.csproj", "{C8834039-EF2C-4A5A-B1FB-5D98EC08AF2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserDemo", "BrowserDemo\BrowserDemo.csproj", "{C57BEC24-5E70-4EB1-9ECD-D51992EA87DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8834039-EF2C-4A5A-B1FB-5D98EC08AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8834039-EF2C-4A5A-B1FB-5D98EC08AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8834039-EF2C-4A5A-B1FB-5D98EC08AF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57BEC24-5E70-4EB1-9ECD-D51992EA87DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57BEC24-5E70-4EB1-9ECD-D51992EA87DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57BEC24-5E70-4EB1-9ECD-D51992EA87DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57BEC24-5E70-4EB1-9ECD-D51992EA87DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

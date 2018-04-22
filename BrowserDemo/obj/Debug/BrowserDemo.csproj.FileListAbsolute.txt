@@ -1,0 +1,9 @@
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\bin\Debug\BrowserDemo.exe.config
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\bin\Debug\BrowserDemo.exe
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\bin\Debug\BrowserDemo.pdb
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.csprojResolveAssemblyReference.cache
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.Form1.resources
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.Properties.Resources.resources
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.csproj.GenerateResource.Cache
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.exe
+c:\Users\MAK\documents\visual studio 2017\Projects\dz4-3\BrowserDemo\obj\Debug\BrowserDemo.pdb
